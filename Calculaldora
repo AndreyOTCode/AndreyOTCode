@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CALCULADORA</title>
+    <link rel="stylesheet" href="estilos.css">
+    <script src="scripts.js"></script>
+</head>
+<body>
+    <div class ="calculadora">
+        <h1 class = "titulo">CALCULADORA</h1>
+
+       
+            <input type ="text" class ="visorUno" id="primerVisor">
+            <input type ="text" class ="visorDos" id="segundoVisor">
+     
+        
+     
+       
+
+        <button class="boton" id="suma" onclick="sumar();">sumar</button>
+        <button class="boton" id="resta"onclick="resta();">resta</button>
+        <button class="boton" id="multiplicacion"onclick="multiplicar();">multiplicacion</button>
+        <button class="boton" id="division"onclick="division();">division</button>
+        <button class="boton" id="potencia"onclick="potencia();">potencia</button>
+        <button class="boton" id="raiz"onclick="raiz();">raiz</button>
+        <button class="boton" id="valorAbsoluto"onclick="valorAbsoluto();">valor absoluto</button>
+        
+        <button class="boton" id="random"onclick="">random</button>
+        <input type ="text" class ="resultado" id="resultado">
+        <button class="boton" id="round"onclick="">round</button>
+        <button class="boton" id="floor"onclick="">floor</button>
+        <button class="boton" id="ceil"onclick="">ceil</button>
+
+    </div>
+  
+
+</body>
+</html>
