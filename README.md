@@ -1,13 +1,13 @@
-# 👋 Hola, soy Andrey Osorio  
+# 👋 Hi, I'm Andrey Osorio  
 
-💻 **Fullstack Developer** especializado en **Node.js, React, MySQL y MongoDB**.  
-🚀 Apasionado por crear aplicaciones web modernas, escalables y fáciles de usar.  
-🌱 Actualmente fortaleciendo mis habilidades en **arquitecturas backend, APIs RESTful y despliegue en la nube**.  
-🎯 Mi objetivo: aportar soluciones innovadoras que generen impacto real.  
+💻 **Fullstack Developer** specialized in **Node.js, React, MySQL, and MongoDB**.  
+🚀 Passionate about building modern, scalable, and user-friendly web applications.  
+🌱 Currently improving my skills in **backend architectures, RESTful APIs, and cloud deployment**.  
+🎯 My goal: contribute innovative solutions that create real-world impact.  
 
 ---
 
-## 🛠️ Tecnologías y herramientas  
+## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -22,41 +22,41 @@
 
 ---
 
-## 📂 Proyectos destacados  
+## 📂 Featured Projects  
 
-🔹 [**Sistema de Barbería & Tatuajes**](https://ragnarokapp.netlify.app/)  
-Aplicación web para la gestión de citas, inventario y ventas en un negocio de barbería y tatuajes.  
+🔹 [**Barbershop & Tattoo Management System**](https://ragnarokapp.netlify.app/)  
+Web application for managing appointments, inventory, and sales in a barbershop and tattoo business.  
 *Stack:* React, Node.js, Express, MySQL  
 
-🔹 [**E-commerce de productos**](https://ragnarokapp.netlify.app/)  
-Mini tienda online con carrito de compras, autenticación y pasarela de pagos.  
+🔹 [**E-commerce Platform**](https://ragnarokapp.netlify.app/) 
+Mini online store with shopping cart, authentication, and payment integration.  
 *Stack:* React, Node.js, MongoDB  
 
-🔹 [**Dashboard Administrativo**](https://ragnarokapp.netlify.app/)  
-Panel para gestionar usuarios, roles y reportes con autenticación por sesiones.  
+🔹 [**Admin Dashboard**](https://ragnarokapp.netlify.app/)
+Management panel for users, roles, and reports with session-based authentication.  
 *Stack:* Node.js, Express, MySQL, Bootstrap  
 
 ---
 
-## 🌐 Idiomas
-- 🇪🇸 **Español:** Nativo  
-- 🇺🇸 **Inglés:** Intermedio (B1-B2) – En constante aprendizaje y práctica  
+## 🌐 Languages  
+- 🇪🇸 **Spanish:** Native  
+- 🇺🇸 **English:** Intermediate (B1) – Constantly learning and practicing  
+
 ---
 
-## 📈 Estadísticas de GitHub  
+## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
 </p>  
 
 ---
 
-## 📫 Contacto  
-- ✉️ Email: osorioandrey97@gmail.com 
-- 💼 LinkedIn: Andrey Osorio(www.linkedin.com/in/andrey-osorio)  
-- 🌐 Portafolio: 
- 
+## 📫 Contact  
+- ✉️ Email: osorioandrey97@gmail.com  
+- 💼 LinkedIn: Andrey osorio(www.linkedin.com/in/andrey-osorio)  
+- 🌐 Portfolio: 
 
 ---
 
-✨ *Siempre abierto a nuevas oportunidades y proyectos colaborativos.*
+✨ *Always open to new opportunities and collaborative projects.*
