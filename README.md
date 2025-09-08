@@ -39,6 +39,11 @@ Panel para gestionar usuarios, roles y reportes con autenticación por sesiones.
 
 ---
 
+## 🌐 Idiomas
+- 🇪🇸 **Español:** Nativo  
+- 🇺🇸 **Inglés:** Intermedio (B1-B2) – En constante aprendizaje y práctica  
+---
+
 ## 📈 Estadísticas de GitHub  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="160"/>
