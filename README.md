@@ -25,15 +25,15 @@
 
 ## 📂 Proyectos destacados  
 
-🔹 [**Sistema de Barbería & Tatuajes**](#)  
+🔹 [**Sistema de Barbería & Tatuajes**](https://ragnarokapp.netlify.app/)  
 Aplicación web para la gestión de citas, inventario y ventas en un negocio de barbería y tatuajes.  
 *Stack:* React, Node.js, Express, MySQL  
 
-🔹 [**E-commerce de productos**](#)  
+🔹 [**E-commerce de productos**](https://ragnarokapp.netlify.app/)  
 Mini tienda online con carrito de compras, autenticación y pasarela de pagos.  
 *Stack:* React, Node.js, MongoDB  
 
-🔹 [**Dashboard Administrativo**](#)  
+🔹 [**Dashboard Administrativo**](https://ragnarokapp.netlify.app/)  
 Panel para gestionar usuarios, roles y reportes con autenticación por sesiones.  
 *Stack:* Node.js, Express, MySQL, Bootstrap  
 
@@ -48,9 +48,10 @@ Panel para gestionar usuarios, roles y reportes con autenticación por sesiones.
 ---
 
 ## 📫 Contacto  
-- ✉️ Email: **tuemail@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](#)  
-- 🌐 Portafolio: [tu-dominio.com](#)  
+- ✉️ Email: osorioandrey97@gmail.com 
+- 💼 LinkedIn: Andrey Osorio(www.linkedin.com/in/andrey-osorio)  
+- 🌐 Portafolio: 
+ 
 
 ---
 
